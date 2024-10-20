@@ -1,1 +1,7 @@
 node_modules
+app/layout.tsx
+app/page.tsx
+app/globals.css
+app/favicon.ico
+tailwind.config.ts
+postcss.config.mjs
